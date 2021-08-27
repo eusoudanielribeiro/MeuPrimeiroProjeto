@@ -14,3 +14,19 @@ main {
     width: 980px;
     position: relative;
 }
+
+.logo{
+    width: 70%;
+    padding: 16px;
+    float: left;
+}
+
+.redes-sociais ul li{
+    margin-left: 15px;
+    display: inline-block;
+    float: left;
+}
+.redes-sociais{
+    width: 25%;
+    float: right;
+}
